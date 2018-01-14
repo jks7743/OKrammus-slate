@@ -19,6 +19,14 @@ Welcome to the OKrammus API! This is a RESTful API made with node.js, express.js
 
 This API documentation page was created with [Slate](https://github.com/lord/slate).
 
+# Credits
+
+All code by htmercury. Documentation by jks7743.
+
+Quote transcriptions from the unofficial [League of Legends Wiki](http://leagueoflegends.wikia.com/wiki/League_of_Legends_Wiki), licensed under [CC-BY-SA] (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Splash art from the [official League of Legends asset kit](https://www.riotgames.com/asset-kit/league-of-legends), owned by Riot Games and used following [Riot Games' guidelines](https://www.riotgames.com/en/legal)
+
 # Authentication
 
 > To authorize, use this code:
