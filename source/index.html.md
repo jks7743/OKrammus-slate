@@ -23,9 +23,11 @@ This API documentation page was created with [Slate](https://github.com/lord/sla
 
 All code by htmercury. Documentation by jks7743.
 
-Quote transcriptions from the unofficial [League of Legends Wiki](http://leagueoflegends.wikia.com/wiki/League_of_Legends_Wiki), licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
+Quote transcriptions from the unofficial [League of Legends Wiki](http://leagueoflegends.wikia.com/wiki/League_of_Legends_Wiki), licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/).
 
-Splash art from the [official League of Legends asset kit](https://www.riotgames.com/asset-kit/league-of-legends), owned by Riot Games and used following [Riot Games' guidelines](https://www.riotgames.com/en/legal)
+Splash art from the [official League of Legends asset kit](https://www.riotgames.com/asset-kit/league-of-legends), owned by Riot Games and used following [Riot Games' guidelines](https://www.riotgames.com/en/legal).
+
+A working example of this API can be found [Here](https://codepen.io/htmercury/full/ypazEp/).
 
 # Authentication
 
